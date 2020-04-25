@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Header from './Components/header'
-import Blogs from './Components/blogs'
+import Header from './header'
+import Blogs from './blogs'
 function App() {
   return (
     <div className="">
